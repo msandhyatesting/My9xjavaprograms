@@ -4,7 +4,7 @@ public class lab023 {
     //console arguments
     public static void main(String[] args) {
         int age=args[0];
-        int age=integer.parseInt(args[0]);
+        int age=Integer.parseInt(args[0]);
 
     }
 }
