@@ -1,5 +1,5 @@
 package October.ex_242024;
-1
+
 
 import java.util.Scanner;
 
