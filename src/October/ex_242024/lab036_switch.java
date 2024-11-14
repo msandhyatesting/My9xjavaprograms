@@ -1,6 +1,6 @@
 package October.ex_242024;
 
-public class lab036 {
+public class lab036_switch {
     public static void main(String[] args) {
         int itemcode=001;
         switch(itemcode) {
